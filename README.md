@@ -6,7 +6,11 @@
 </div>
 
 
-## 
+## SECTION 2 : EXECUTIVE SUMMARY
+Due to the large number of students at NUS and the fact that the university dormitory is not available to all, students are required to take the bus or MRT or a taxi home after class. Taking the bus or MRT can result in long waiting times and the cost of taking a taxi alone can be expensive. Hence, the need for carpooling between students is generated.
+
+Our project is dedicated to carpooling by grouping student passengers from similar destinations together based on a clustering algorithm and then using the Dijkstra algorithm to figure out the shortest path. As the colleges are relatively far away, but the NUS bus route basically covers all colleges and utown, the default pick-up point for students was chosen as utown. The drop-off location is freely chosen by the passengers, but system will match the existing carpooling points by calculating the relative distance, so that system can give the user a station closer to his/her destination.
+
   
 ## Install
 download [Node.js](https://nodejs.org/en/download/)  
