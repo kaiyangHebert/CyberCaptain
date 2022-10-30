@@ -1,0 +1,269 @@
+type,id,lat,lon,name,tags,No.
+node,9613457679,1.3262793,103.8884677,66A Circuit,"{'amenity': 'taxi', 'bench': 'yee', 'location': '135', 'shelter': 'yes'}",263
+node,9934792747,1.2997406,103.8372119,83 Devonshire,"{'amenity': 'taxi', 'capacity': '1', 'ref': 'A23', 'wheelchair': 'yes'}",267
+node,3800199418,1.4408935,103.8011926,Admiralty Station,"{'amenity': 'taxi', 'name': 'Admiralty Station', 'ref': 'H14'}",106
+node,3800199520,1.3172184,103.8952493,Aft Tg Katong Cplx,"{'amenity': 'taxi', 'ref': 'I18'}",180
+node,3800199502,1.2864258,103.8013543,Alexandra Hospital,"{'amenity': 'taxi', 'name': 'Taxi Stand'}",177
+node,3800199420,1.2750181,103.8433713,Amara Hotel,"{'amenity': 'taxi', 'name': 'Amara Hotel', 'ref': 'E24'}",107
+node,2677108450,1.3690706,103.8482054,Ang Mo Kio Hub,"{'amenity': 'taxi', 'name': 'Ang Mo Kio Hub'}",32
+node,3800199421,1.3698269,103.8494387,Ang Mo Kio Station,"{'amenity': 'taxi', 'description': 'Ang Mo Kio Ave 8 outside Ang Mo Kio MRT Station ', 'name': 'Ang Mo Kio Station', 'operator': 'Land Transport Authority', 'ref': 'F02'}",108
+node,3800199422,1.286878,103.8488033,Archipelago Brewery,"{'amenity': 'taxi', 'name': 'Archipelago Brewery', 'ref': 'E35'}",109
+node,3800199424,1.3246841,103.8507983,Balestier Hospital,"{'amenity': 'taxi', 'name': 'Balestier Hospital', 'ref': 'F12'}",111
+node,3800199425,1.316235,103.8358217,Balmoral Plaza,"{'amenity': 'taxi', 'name': 'Balmoral Plaza', 'ref': 'F25'}",112
+node,3800199426,1.3423148,103.8804707,Bartley Station,"{'amenity': 'taxi', 'name': 'Bartley Station', 'ref': 'I26'}",113
+node,3800199427,1.2984135,103.8502578,Bayview Hotel B05,"{'amenity': 'taxi', 'capacity': '1', 'description': 'Bencoolen Street at Bayview Hotel ', 'note': 'Temporarily relocated to Lor Payah', 'ref': 'B05', 'wheelchair': 'yes'}",114
+node,5224918697,1.3241477,103.9295161,Bedok Mall,"{'amenity': 'taxi', 'name': 'Bedok Station'}",242
+node,1848076696,1.3236511,103.9295945,Bedok Station I08,"{'amenity': 'taxi', 'name': 'Bedok Station', 'ref': 'I08'}",26
+node,3800199428,1.3183179,103.8633714,Bendemeer,"{'amenity': 'taxi', 'name': 'Bendemeer', 'ref': 'F14'}",115
+node,3800199429,1.2834582,103.8512441,Bharat,"{'amenity': 'taxi', 'name': 'Bharat', 'ref': 'E11'}",116
+node,3800199430,1.3515479,103.848107,Bishan Station,"{'amenity': 'taxi', 'name': 'Bishan Station', 'ref': 'F05'}",117
+node,3800199431,1.2741232,103.8248856,Blk 109 F39,"{'amenity': 'taxi', 'name': 'Blk 109', 'ref': 'F39'}",118
+node,3800199432,1.2828553,103.8168716,Blk 165 F38,"{'amenity': 'taxi', 'name': 'Blk 165', 'ref': 'F38'}",119
+node,3800199433,1.3336325,103.8468801,Blk 175 F08,"{'amenity': 'taxi', 'name': 'Blk 175', 'ref': 'F08'}",120
+node,3800199434,1.3117424,103.7879487,Blk 19 H01,"{'amenity': 'taxi', 'name': 'Blk 19', 'ref': 'H01'}",121
+node,1315774169,1.3244422,103.9315651,Blk 209 I07,"{'amenity': 'taxi', 'name': 'Blk 209', 'ref': 'I07'}",13
+node,3800199435,1.3532493,103.8706521,Blk 267 G04,"{'amenity': 'taxi', 'name': 'Blk 267', 'ref': 'G04'}",122
+node,3800199436,1.350126,103.7251703,Blk 492 J10,"{'amenity': 'taxi', 'name': 'Blk 492', 'ref': 'J10'}",123
+node,3800199437,1.3897261,103.9868765,Blk 5 I01,"{'amenity': 'taxi', 'name': 'Blk 5', 'ref': 'I01'}",124
+node,3800199438,1.3051569,103.9149139,Blk 54 I13,"{'amenity': 'taxi', 'name': 'Blk 54', 'ref': 'I13'}",125
+node,3800199439,1.3048476,103.9089649,Blk 71 I14,"{'amenity': 'taxi', 'name': 'Blk 71', 'ref': 'I14'}",126
+node,1573773443,1.3227561,103.8549397,Blk 90 Food Centre,"{'amenity': 'taxi', 'name': 'Blk 90 Food Centre', 'ref': 'F11'}",18
+node,10001088114,1.3385825,103.7435257,Block 288A Jurong East,"{'amenity': 'taxi', 'name': 'Taxi Stand', 'service': 'parking_aisle'}",268
+node,3800199440,1.3215101,103.8144584,Botanic Gardens Station,"{'amenity': 'taxi', 'name': 'Botanic Gardens Station', 'ref': 'F57'}",127
+node,3800199443,1.3826019,103.8932127,Buangkok Station G13,"{'amenity': 'taxi', 'name': 'Buangkok Station', 'ref': 'G13'}",128
+node,5059869878,1.382934,103.8929258,Buangkok Station G14,"{'amenity': 'taxi', 'name': 'Buangkok Station', 'ref': 'G14'}",240
+node,3800199444,1.2812828,103.8443583,Buddha Tooth Relic Temple,"{'amenity': 'taxi', 'capacity': '5', 'description': 'Sago Lane Beside Buddha Tooth Relic Temple & Museum', 'ref': 'D17', 'wheelchair': 'yes'}",129
+node,3800199445,1.3000094,103.8556085,Bugis Junction,"{'amenity': 'taxi', 'name': 'Bugis Junction', 'ref': 'B18'}",130
+node,2606133933,1.298402,103.8554614,Bugis Junction Tower,"{'amenity': 'taxi', 'capacity': '2', 'description': 'North Bridge Road along driveway outside Bugis Junction Tower', 'ref': 'B11', 'wheelchair': 'yes'}",30
+node,4536045395,1.3799465,103.7641083,Bukit Panjang Plaza,"{'amenity': 'taxi', 'name': 'Bukit Panjang Plaza'}",238
+node,3800199447,1.3432265,103.775786,Bukit Timah Shopping Centre,"{'amenity': 'taxi', 'name': 'Bukit Timah Shopping Centre', 'ref': 'H10'}",132
+node,3685208729,1.30662,103.7905002,Buona Vista Station,"{'amenity': 'taxi', 'name': 'Buona Vista Station', 'ref': 'F46'}",37
+node,512051628,1.3031598,103.83769,Cairnhill Place,"{'amenity': 'taxi', 'capacity': '3', 'description': 'Cairnhill Road outside Cairnhill Place', 'ref': 'A06', 'wheelchair': 'no'}",4
+node,3800199449,1.3369386,103.8395931,Caldecott Station,"{'amenity': 'taxi', 'name': 'Caldecott Station', 'ref': 'F58', 'survey:date': '2021-02-25'}",134
+node,3800199563,1.2941655,103.8480401,Canning Rise,"{'amenity': 'taxi', 'capacity': '3', 'description': 'Canning Rise near Registry of Marriages', 'ref': 'C05', 'wheelchair': 'yes'}",187
+node,3800199450,1.2820338,103.8498079,CapitaGreen,"{'amenity': 'taxi', 'name': 'CapitaGreen', 'ref': 'E10'}",135
+node,3800199451,1.2773162,103.8474702,Capital Tower,"{'amenity': 'taxi', 'name': 'Capital Tower', 'ref': 'E31'}",136
+node,3800199452,1.2926555,103.8513717,Capitol Singapore,"{'amenity': 'taxi', 'capacity': '5', 'description': 'North Bridge Road outside Capitol', 'ref': 'C13', 'wheelchair': 'yes'}",137
+node,8677734072,1.3703275,103.7641043,Cashew MRT Taxi Stand,"{'amenity': 'taxi', 'name': 'Cashew MRT Taxi Stand (Exit A)'}",261
+node,7043034844,1.2991623,103.8474878,Cathay Building,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Handy Road near Cathay Building', 'ref': 'A17', 'wheelchair': 'yes'}",259
+node,3800199454,1.2886449,103.8421625,Central Mall,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Magazine Road outside Central Mall', 'ref': 'D10', 'wheelchair': 'yes'}",138
+node,1776776210,1.352314,103.9435403,Century Square Taxi Stand,"{'amenity': 'taxi', 'name': 'Century Square Taxi Stand'}",21
+node,3800199456,1.3611461,103.9902847,Changi Airport Terminal 1,"{'amenity': 'taxi', 'level': '1', 'name': 'Changi Airport Terminal 1', 'name:en': 'Changi Airport Terminal 1', 'name:zh': 'è°ÒË»ú³¡1ºÅº½Õ¾Â¥'}",140
+node,3800199457,1.3558023,103.9885414,Changi Airport Terminal 2,"{'amenity': 'taxi', 'name': 'Changi Airport Terminal 2'}",141
+node,3800199458,1.3550774,103.9867549,Changi Airport Terminal 3,"{'amenity': 'taxi', 'name': 'Changi Airport Terminal 3', 'name:en': 'Changi Airport Terminal 3'}",142
+node,3800199339,1.2980624,103.8521623,China Cultural Centre,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Queen Street at China Cultural Centre', 'operator': 'Land Transport Authority', 'ref': 'B09', 'wheelchair': 'yes'}",93
+node,3800199459,1.2834925,103.8465903,China Square,"{'amenity': 'taxi', 'name': 'China Square', 'ref': 'E03'}",143
+node,3800199460,1.2855668,103.8448489,Chinatown Point,"{'amenity': 'taxi', 'capacity': '3', 'description': 'New Bridge Road along driveway outside Chinatown Point', 'ref': 'D08', 'wheelchair': 'yes'}",144
+node,3800199461,1.3430367,103.7319354,Chinese Garden Station,"{'amenity': 'taxi', 'name': 'Chinese Garden Station', 'ref': 'J11'}",145
+node,3800199462,1.3842977,103.7438551,Choa Chu Kang Station,"{'amenity': 'taxi', 'name': 'Choa Chu Kang Station', 'ref': 'J02'}",146
+node,3800199463,1.314667,103.8940426,City Plaza,"{'amenity': 'taxi', 'name': 'City Plaza', 'ref': 'I20'}",147
+node,3800199464,1.2824721,103.8462563,Citystate Serviced Apartments,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Club Street at City State Apartments', 'ref': 'D20', 'wheelchair': 'yes'}",148
+node,3800199466,1.2911307,103.8460902,Clarke Quay,"{'amenity': 'taxi', 'capacity': '4', 'description': 'River Valley Road outside Clarke Quay', 'ref': 'C01', 'wheelchair': 'yes'}",150
+node,3800199455,1.2888174,103.8462441,Clarke Quay Central,"{'amenity': 'taxi', 'capacity': '3', 'description': 'Tew Chew Street at Clarke Quay Central', 'ref': 'D12', 'wheelchair': 'yes'}",139
+node,1559274111,1.3147297,103.7651499,Clementi Station,"{'amenity': 'taxi', 'name': 'Clementi Station', 'ref': 'J07'}",17
+node,3800199467,1.3178119,103.7859284,Cold Storage Jelita,"{'amenity': 'taxi', 'name': 'Cold Storage Jelita', 'ref': 'H04'}",151
+node,3800199299,1.3024623,103.7979951,Commonwealth Station,"{'amenity': 'taxi', 'name': 'Commonwealth Station', 'ref': 'F43'}",58
+node,3800199510,1.3009822,103.8419529,Concorde Hotel & Shopping Mall,"{'amenity': 'taxi', 'capacity': '5', 'description': 'Kramat Lane outside Concorde Hotel & Shopping Mall', 'ref': 'A13', 'wheelchair': 'no'}",179
+node,965873722,1.2471906,103.8392721,Cove Village,"{'amenity': 'taxi', 'name': 'Arrival Station'}",10
+node,3800199300,1.3086481,103.8893817,Dakota Station,"{'amenity': 'taxi', 'name': 'Dakota Station', 'ref': 'I27'}",59
+node,5404729524,1.3002415,103.8455096,Dhoby Ghaut MRT Station,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Handy Road outside Dhoby Ghaut MRT Station (The Atrium @ Orchard)', 'wheelchair': 'yes'}",246
+node,3800199302,1.3115587,103.7779185,Dover Station J05,"{'amenity': 'taxi', 'name': 'Dover Station', 'ref': 'J05'}",61
+node,3800199301,1.311308,103.7793162,Dover Station J06,"{'amenity': 'taxi', 'name': 'Dover Station', 'ref': 'J06'}",60
+node,3800199678,1.2842877,103.8440639,Dragon Brand Bird's Nest Building,"{'amenity': 'taxi', 'capacity': '2', 'description': ""Mosque Street in front of Dragon Brand Bird's Nest Building"", 'ref': 'D19', 'wheelchair': 'yes'}",236
+node,5479277633,1.2870834,103.8142677,Drop off point,"{'amenity': 'taxi', 'name': 'Drop off point'}",250
+node,3800199303,1.3424679,103.9528535,Eastpoint Shopping Mall,"{'amenity': 'taxi', 'name': 'Eastpoint Shopping Mall', 'ref': 'I04'}",62
+node,3800199304,1.299981,103.8224846,Embassy of the Republic of Indonesia,"{'amenity': 'taxi', 'name': 'Embassy of the Republic of Indonesia', 'ref': 'F48'}",63
+node,3800199305,1.3345618,103.9620245,Expo Station,"{'amenity': 'taxi', 'name': 'Expo Station', 'ref': 'I02'}",64
+node,3800199306,1.3073977,103.8333398,Far East Plaza,"{'amenity': 'taxi', 'name': 'Far East Plaza', 'ref': 'F52'}",65
+node,3800199308,1.3126298,103.853588,Farrer Park Station F28,"{'amenity': 'taxi', 'name': 'Farrer Park Station', 'ref': 'F28'}",67
+node,3800199307,1.3124966,103.8532309,Farrer Park Station F29,"{'amenity': 'taxi', 'name': 'Farrer Park Station', 'ref': 'F29'}",66
+node,3800199309,1.3173644,103.8073204,Farrer Road Station,"{'amenity': 'taxi', 'name': 'Farrer Road Station', 'ref': 'H05'}",68
+node,5404734554,1.2962296,103.8458967,Fort Canning Park,"{'amenity': 'taxi', 'capacity': '1', 'description': 'Percival Road at round-about of Fort Canning Park', 'ref': 'C26', 'wheelchair': 'yes'}",247
+node,3800199313,1.2789221,103.8479694,GB Building,"{'amenity': 'taxi', 'name': 'GB Building', 'name:en': 'Papua new guinea high commission', 'ref': 'E08'}",69
+node,3800199315,1.3073918,103.8201718,Gleneagles Hospital,"{'amenity': 'taxi', 'name': 'Gleneagles Hospital', 'ref': 'F51'}",70
+node,3800199316,1.3029235,103.8650475,Golden Mile Complex,"{'amenity': 'taxi', 'name': 'Golden Mile Complex', 'ref': 'F20'}",71
+node,3800199677,1.2828867,103.8440633,Grand Court Restaurant,"{'amenity': 'taxi', 'capacity': '1', 'description': 'Temple Street infront of Grand Court Restaurant', 'ref': 'D18', 'wheelchair': 'yes'}",235
+node,3800199318,1.2849933,103.8476747,Great Eastern Centre,"{'amenity': 'taxi', 'name': 'Great Eastern Centre', 'ref': 'E01'}",72
+node,1832695803,1.2647775,103.8205551,Harbourfront Centre,"{'amenity': 'taxi', 'name': 'Harbourfront Centre', 'ref': 'F30'}",24
+node,3800199319,1.2658999,103.8213374,Harbourfront Station,"{'amenity': 'taxi', 'name': 'Harbourfront Station', 'ref': 'F32'}",73
+node,3800199320,1.2970089,103.8439481,Haw Par Glass Tower,"{'amenity': 'taxi', 'capacity': '4', 'description': 'Clemenceau Avenue in front of Haw Par Glass Centre', 'ref': 'A19', 'wheelchair': 'yes'}",74
+node,3800199321,1.2833428,103.7816047,Haw Par Villa Station,"{'amenity': 'taxi', 'name': 'Haw Par Villa Station', 'ref': 'J19'}",75
+node,3800199322,1.2843033,103.7812492,Haw Par Villa tiger ban,"{'amenity': 'taxi', 'name': 'Haw Par Villa tiger ban', 'ref': 'J04'}",76
+node,3800199446,1.298927,103.8564248,Heritage Place,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Tan Quee Lan Street near Heritage Place', 'ref': 'B12', 'wheelchair': 'yes'}",131
+node,3800199323,1.2933738,103.8251612,High Commission of Malaysia,"{'amenity': 'taxi', 'name': 'High Commission of Malaysia', 'ref': 'F47'}",77
+node,3800198731,1.2842084,103.8527296,Hitachi Towers,"{'amenity': 'taxi', 'name': 'Hitachi Towers', 'ref': 'E32'}",38
+node,3800198732,1.3025803,103.8409628,Holiday Inn Orchard City,"{'amenity': 'taxi', 'capacity': '1', 'description': 'Cavenagh Road at Holiday Inn Orchard City Centre', 'ref': 'A14', 'wheelchair': 'yes'}",39
+node,3800199448,1.3101548,103.7929704,Holland Drive near Buona Vista Community Club,"{'amenity': 'taxi', 'capacity': '3', 'name': 'Holland Drive near Buona Vista Community Club', 'ref': 'H02'}",133
+node,3800198733,1.3100823,103.7954368,Holland Road Shopping Centre,"{'amenity': 'taxi', 'name': 'Holland Road Shopping Centre', 'ref': 'H03'}",40
+node,3800199658,1.2942964,103.8537996,Hotel Fairmont Singapore,"{'amenity': 'taxi', 'description': 'Bras Basah Road at The Fairmont', 'ref': 'C16', 'wheelchair': 'yes'}",223
+node,3800198734,1.2973125,103.8527437,Hotel Grand Pacific,"{'amenity': 'taxi', 'description': 'Victoria Street at Hotel Grand Pacific', 'ref': 'B15', 'wheelchair': 'yes'}",41
+node,3800198736,1.3714625,103.8928273,Hougang Station,"{'amenity': 'taxi', 'name': 'Hougang Station', 'ref': 'G12'}",43
+node,3800198737,1.3067644,103.862617,Immigration and Checkpoints Authority,"{'amenity': 'taxi', 'name': 'Immigration and Checkpoints Authority', 'ref': 'F15'}",44
+node,6440797634,1.304867,103.8924556,Innosphere,"{'amenity': 'taxi', 'description': 'Drop-off Point (Innosphere)', 'name': 'Drop-off Point 3'}",254
+node,3800198738,1.3817235,103.8847278,Institute of Mental Health,"{'amenity': 'taxi', 'name': 'Institute of Mental Health', 'ref': 'F13'}",45
+node,1318693248,1.2758372,103.8463058,International Plaza,"{'amenity': 'taxi', 'name': 'International Plaza', 'ref': 'E30'}",16
+node,3800199509,1.2997208,103.8423835,Istana Park,"{'amenity': 'taxi', 'capacity': '3', 'description': 'Penang Road after Istana Park', 'ref': 'A20', 'wheelchair': 'no'}",178
+node,6924425201,1.3314436,103.7414935,JTC Summit,"{'amenity': 'taxi', 'name': 'JTC Summit'}",255
+node,1318667102,1.3507077,103.8490772,Junction 8,"{'amenity': 'taxi', 'name': 'Junction 8', 'ref': 'F03'}",14
+node,3800198741,1.3321552,103.7429844,Jurong East Station,"{'amenity': 'taxi', 'name': 'Jurong East Station', 'ref': 'J08'}",47
+node,3800198744,1.3038245,103.901338,Katong Shopping Centre,"{'amenity': 'taxi', 'name': 'Katong Shopping Centre', 'ref': 'I16'}",49
+node,3800198745,1.2802339,103.8487622,Keck Seng Tower,"{'amenity': 'taxi', 'name': 'Keck Seng Tower', 'ref': 'E09'}",50
+node,3800198748,1.4175119,103.8332544,Khatib Station,"{'amenity': 'taxi', 'covered': 'yes', 'name': 'Khatib Station', 'ref': 'H07'}",51
+node,3800199470,1.3147168,103.8943086,Kinex,"{'amenity': 'taxi', 'name': 'Kinex', 'ref': 'I21'}",154
+node,1579304828,1.3366031,103.779226,King Albert Park,"{'amenity': 'taxi', 'name': 'King Albert Park'}",19
+node,3800198743,1.3103415,103.8473917,KK Hospital,"{'amenity': 'taxi', 'name': 'KK Hospital'}",48
+node,3800198749,1.3547625,103.8771122,Kovan Centre,"{'amenity': 'taxi', 'name': 'Kovan Centre', 'ref': 'G09'}",52
+node,3800198750,1.3596134,103.8846835,Kovan Station G10,"{'amenity': 'taxi', 'name': 'Kovan Station', 'ref': 'G10'}",53
+node,3800198751,1.3598159,103.8845232,Kovan Station G11,"{'amenity': 'taxi', 'name': 'Kovan Station', 'ref': 'G11'}",54
+node,3800198752,1.4255948,103.7622916,Kranji Station,"{'amenity': 'taxi', 'name': 'Kranji Station', 'ref': 'H19'}",55
+node,5341600180,1.3444063,103.7206018,Lakeside Station,"{'amenity': 'taxi', 'name': 'Lakeside Station', 'ref': 'J12'}",245
+node,3800198753,1.3029537,103.8509529,LaSalle Arts College B03,"{'amenity': 'taxi', 'capacity': '1', 'description': 'Short Street near La Salle Arts College', 'ref': 'B03', 'wheelchair': 'yes'}",56
+node,3800198755,1.2804121,103.8508078,Lau Pa Sat,"{'amenity': 'taxi', 'name': 'Lau Pa Sat', 'ref': 'E36'}",57
+node,3800199569,1.2961743,103.8504149,Li Ka Shing Library,"{'amenity': 'taxi', 'capacity': '3', 'description': 'Queen Street at Li Ka Shing Library', 'ref': 'B08', 'wheelchair': 'yes'}",193
+node,3800199468,1.2917324,103.8451865,Liang Court Shopping Centre,"{'amenity': 'taxi', 'capacity': '2', 'description': 'River Valley Road outside Liang Court Shopping Centre', 'ref': 'C02', 'wheelchair': 'yes'}",152
+node,3800199469,1.3051567,103.8304338,Liat Towers,"{'amenity': 'taxi', 'name': 'Liat Towers', 'ref': 'F49'}",153
+node,3800199471,1.3055634,103.8494624,Little India Station F26,"{'amenity': 'taxi', 'name': 'Little India Station', 'ref': 'F26'}",155
+node,3800199472,1.3069396,103.849998,Little India Station F27,"{'amenity': 'taxi', 'name': 'Little India Station', 'ref': 'F27'}",156
+node,1856669032,1.3516182,103.8645845,Lorong Chuan Station,"{'amenity': 'taxi', 'name': 'Lorong Chuan Station', 'ref': 'G08'}",27
+node,5404774847,1.2834211,103.8432546,Lucky Chinatown,"{'amenity': 'taxi', 'capacity': '1', 'description': 'Temple Street beside Lucky Chinatown', 'ref': 'D21', 'wheelchair': 'no'}",248
+node,3800199473,1.3040299,103.8338373,Lucky Plaza,"{'amenity': 'taxi', 'capacity': '4', 'description': ' Orchard Road along driveway outside Lucky Plaza', 'ref': 'A01', 'wheelchair': 'yes'}",157
+node,3800199474,1.2736919,103.8449023,M Hotel,"{'amenity': 'taxi', 'name': 'M Hotel', 'ref': 'E29'}",158
+node,3800199475,1.3081965,103.9227705,Mandarin Gardens,"{'amenity': 'taxi', 'name': 'Mandarin Gardens', 'ref': 'I12'}",159
+node,3800199476,1.2662774,103.860441,Marina Bay Cruise Centre,"{'amenity': 'taxi', 'name': 'Marina Bay Cruise Centre', 'ref': 'F59'}",160
+node,3800199477,1.2919058,103.8573053,Marina Mandarin Hotel,"{'amenity': 'taxi', 'description': 'Raffles Boulevard at Marina Mandarin Hotel', 'ref': 'C23', 'wheelchair': 'yes'}",161
+node,3800199478,1.2916133,103.8578698,Marina Square,"{'amenity': 'taxi', 'capacity': '4', 'description': 'Raffles Boulevard along driveway outside Marina Square', 'ref': 'C22', 'wheelchair': 'yes'}",162
+node,3800199479,1.4324038,103.773684,Marsiling Station,"{'amenity': 'taxi', 'name': 'Marsiling Station', 'ref': 'H18'}",163
+node,1318693240,1.274669,103.8470601,MAS Building,"{'amenity': 'taxi', 'name': 'MAS Building', 'ref': 'E20'}",15
+node,3800199480,1.2992887,103.8505596,Masjid Bencoolen,"{'amenity': 'taxi', 'capacity': '3', 'description': 'Bencoolen Street at Masjid Bencoolen', 'note': 'Temporarily relocated to Prinsep Link', 'ref': 'B17', 'wheelchair': 'yes'}",164
+node,3800199481,1.3019538,103.835794,Meritus Mandarin Hotel,"{'amenity': 'taxi', 'description': 'Orchard Link at Meritus Mandarin Hotel', 'ref': 'A07', 'wheelchair': 'yes'}",165
+node,3800199483,1.292837,103.8606194,Millenia Tower,"{'amenity': 'taxi', 'capacity': '4', 'description': 'Temasek Avenue at Millenia Tower', 'ref': 'C21', 'wheelchair': 'yes'}",167
+node,3800199482,1.2915804,103.8598627,Millenia Walk,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Temasek Avenue at Millenia Walk', 'ref': 'C20', 'wheelchair': 'yes'}",166
+node,3800199484,1.2873407,103.8446942,Ministry of Manpower,"{'amenity': 'taxi', 'capacity': '2', 'description': 'New Market Road outside Ministry of Manpower', 'name': 'Ministry of Manpower', 'ref': 'D09', 'wheelchair': 'yes'}",168
+node,3800199485,1.3043022,103.8352408,Mt Elizabeth Hospital,"{'amenity': 'taxi', 'capacity': '5', 'description': 'Mt Elizabeth Road at Mt Elizabeth Hospital', 'ref': 'A05', 'wheelchair': 'yes'}",169
+node,3800199670,1.3071459,103.8356322,Mt Elizabeth Road at York Hotel,"{'amenity': 'taxi', 'description': 'Mt Elizabeth Road at York Hotel', 'ref': 'A03', 'wheelchair': 'no'}",234
+node,3800199486,1.2787258,103.8442622,Murray Terrace Food Alley,"{'amenity': 'taxi', 'name': 'Murray Terrace Food Alley', 'ref': 'E21'}",170
+node,9787676284,1.2791693,103.8366821,National Cancer Centre Singapore Entrance,"{'amenity': 'taxi', 'name': 'National Cancer Centre Singapore Entrance'}",265
+node,3800199487,1.3119387,103.8377602,Newton Station F53,"{'amenity': 'taxi', 'name': 'Newton Station', 'ref': 'F53'}",171
+node,3800199488,1.3122044,103.837633,Newton Station F54,"{'amenity': 'taxi', 'name': 'Newton Station', 'ref': 'F54'}",172
+node,512050705,1.3022662,103.8345239,Ngee Ann City,"{'amenity': 'taxi', 'capacity': '3', 'description': 'Orchard Turn along driveway outside Ngee Ann City', 'ref': 'A09', 'wheelchair': 'yes'}",3
+node,3800199489,1.2997277,103.8634922,Nicoll Highway Station,"{'amenity': 'taxi', 'name': 'Nicoll Highway Station', 'ref': 'F21'}",173
+node,3800199490,1.4299239,103.8359914,Northpoint Shopping Centre,"{'amenity': 'taxi', 'name': 'Northpoint Shopping Centre', 'ref': 'H10'}",174
+node,3800199492,1.2854874,103.8492664,OCBC Centre,"{'amenity': 'taxi', 'name': 'OCBC Centre', 'ref': 'E04'}",175
+node,3800199324,1.2853704,103.843173,OG People's Park,"{'amenity': 'taxi', 'capacity': '3', 'description': 'Upper Cross Street outside OG Building', 'name': 'OG', 'ref': 'D06', 'wheelchair': 'yes'}",78
+node,3800199327,1.2858143,103.8538477,One Fullerton,"{'amenity': 'taxi', 'name': 'One Fullerton', 'ref': 'E12'}",81
+node,3800199328,1.2814019,103.8516273,One Raffles Quay,"{'amenity': 'taxi', 'name': 'One Raffles Quay', 'ref': 'E17'}",82
+node,3800199329,1.3514619,103.8477485,Opposite Bishan Station,"{'amenity': 'taxi', 'name': 'Opposite Bishan Station', 'ref': 'F04'}",83
+node,3800199330,1.3198961,103.8619997,Opposite Blk 102 F16,"{'amenity': 'taxi', 'bin': 'yes', 'name': 'Opposite Blk 102', 'ref': 'F16', 'shelter': 'yes'}",84
+node,3800199331,1.2867743,103.8474353,Opposite Hong Lim Park,"{'amenity': 'taxi', 'capacity': '3', 'description': 'North Canal Road opposite Hong Lim Park', 'ref': 'D15', 'wheelchair': 'yes'}",85
+node,3800199332,1.2777045,103.8436941,Opposite Mac-Nels,"{'amenity': 'taxi', 'name': 'Opposite Mac-Nels', 'ref': 'E34'}",86
+node,3800199335,1.3013445,103.8757619,Opposite Singapore Indoor Stadium,"{'amenity': 'taxi', 'name': 'Opposite Singapore Indoor Stadium', 'ref': 'I28'}",89
+node,3800199336,1.3312311,103.8496801,OrangeTee,"{'amenity': 'taxi', 'name': 'OrangeTee', 'ref': 'F09'}",90
+node,3800199337,1.3003446,103.8404504,Orchard Central Taxi Stand A21,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Killiney Road outside Orchard Central', 'ref': 'A21', 'wheelchair': 'yes'}",91
+node,665020336,1.3005311,103.8388588,Orchard Gateway,"{'amenity': 'taxi', 'name': 'Orchard Gateway', 'ref': 'A22'}",7
+node,512045174,1.3011854,103.83961,Orchard Road Centrepoint,"{'amenity': 'taxi', 'capacity': '4', 'description': 'Orchard Road outside Centrepoint', 'ref': 'A11', 'wheelchair': 'yes'}",1
+node,1670187869,1.3071569,103.8291109,Orchard Towers,"{'amenity': 'taxi', 'name': 'Orchard Towers', 'ref': 'F50'}",20
+node,3800199333,1.2817564,103.8416986,Oriental Plaza D04,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Kreta Ayer Road opposite Oriental Plaza', 'ref': 'D04', 'wheelchair': 'yes'}",87
+node,3800199325,1.2841406,103.8531392,OUE Bayfront,"{'amenity': 'taxi', 'name': 'OUE Bayfront', 'ref': 'E37'}",79
+node,3800199326,1.2774489,103.8489077,OUE Downtown,"{'amenity': 'taxi', 'name': 'OUE Downtown', 'ref': 'E19'}",80
+node,2486375836,1.280386,103.8406437,Outram MRT Station,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Teo Hong Road near Outram MRT Station Exit H', 'ref': 'D01', 'wheelchair': 'yes'}",29
+node,3800199338,1.2812464,103.839132,Outram Station,"{'amenity': 'taxi', 'name': 'Outram Station', 'ref': 'F34'}",92
+node,5136615345,1.2472038,103.8247918,Palawan,"{'amenity': 'taxi', 'name': 'Palawan'}",241
+node,3800199340,1.3042882,103.8359243,Paragon Medical Centre,"{'amenity': 'taxi', 'description': 'Mt Elizabeth Road at Paragon Medical Centre', 'ref': 'A04', 'wheelchair': 'yes'}",94
+node,512050333,1.3038271,103.8362243,Paragon Shopping Centre ,"{'amenity': 'taxi', 'capacity': '7', 'description': 'Bideford Road - driveway of Paragon Shopping Centre ', 'ref': 'A02', 'wheelchair': 'yes'}",2
+node,3800199343,1.3004624,103.8496197,Parklane Shopping Mall,"{'amenity': 'taxi', 'capacity': '5', 'description': 'Selegie Road outside Parklane Shopping Mall', 'ref': 'B02', 'wheelchair': 'yes'}",95
+node,3800199344,1.302298,103.9050305,Parkway Parade,"{'amenity': 'taxi', 'name': 'Parkway Parade', 'ref': 'I15'}",96
+node,6975908287,1.302298,103.9050305,Parkway Parade 1,"{'amenity': 'taxi', 'level': '1', 'name': 'Parkway Parade', 'ref': 'I15'}",257
+node,6975908097,1.302298,103.9050305,Parkway Parade 2,"{'amenity': 'taxi', 'level': '2', 'name': 'Parkway Parade', 'ref': 'I15'}",256
+node,6976881385,1.302298,103.9050305,Parkway Parade 3,"{'amenity': 'taxi', 'level': '3', 'name': 'Parkway Parade', 'ref': 'I15'}",258
+node,6193644729,1.3724044,103.9486689,Pasir Ris Station,"{'amenity': 'taxi', 'name': 'Pasir Ris Station', 'ref': 'G22'}",251
+node,3800199346,1.3186997,103.8932424,Paya Lebar Station,"{'amenity': 'taxi', 'name': 'Paya Lebar Station', 'ref': 'I23'}",97
+node,3800199501,1.2861803,103.8439613,People's Park Centre,"{'amenity': 'taxi', 'capacity': '2', 'description': ""Havelock Square outside People's Park Centre (New Market Road) \n"", 'ref': 'D07', 'wheelchair': 'yes'}",176
+node,3800199349,1.2835191,103.8423101,People's Park Complex,"{'amenity': 'taxi', 'description': ""Park Crescent outside People's Park Complex"", 'ref': 'D05', 'wheelchair': 'yes'}",98
+node,3800199350,1.2942104,103.8492763,Peranakan Museum,"{'amenity': 'taxi', 'capacity': '3', 'description': 'Armenian Street infront of Peranakan Museum', 'ref': 'C06', 'wheelchair': 'no'}",99
+node,3800198740,1.3377646,103.6978821,Pioneer Station,"{'amenity': 'taxi', 'name': 'Pioneer Station', 'ref': 'J17'}",46
+node,595155074,1.3006525,103.8453191,Plaza Singapura,"{'amenity': 'taxi', 'capacity': '3', 'description': 'Handy Road outside Plaza Singapura', 'name': 'Plaza Singapura', 'ref': 'A16', 'wheelchair': 'yes'}",5
+node,3800199352,1.3325479,103.8688173,Potong Pasir Station G01,"{'amenity': 'taxi', 'name': 'Potong Pasir Station', 'ref': 'G01'}",101
+node,3800199351,1.3316888,103.8693736,Potong Pasir Station G02,"{'amenity': 'taxi', 'name': 'Potong Pasir Station', 'ref': 'G02'}",100
+node,3800199353,1.2826378,103.8488385,PriceWaterhouseCoopers Building,"{'amenity': 'taxi', 'name': 'PriceWaterhouseCoopers Building', 'ref': 'E07'}",102
+node,3800199355,1.4055836,103.9021696,Punggol Station G19,"{'amenity': 'taxi', 'name': 'Punggol Station', 'name:en': 'Punggol Station', 'ref': 'G19'}",104
+node,3800199354,1.4048379,103.9027755,Punggol Station G20,"{'amenity': 'taxi', 'name': 'Punggol Station', 'name:en': 'Punggol Station', 'ref': 'G20'}",103
+node,3800199356,1.288239,103.8034763,Queenstown Neighbourhood Police Centre,"{'amenity': 'taxi', 'name': 'Queenstown Neighbourhood Police Centre', 'ref': 'F45'}",105
+node,3800199557,1.2943724,103.8064624,Queenstown Station,"{'amenity': 'taxi', 'name': 'Queenstown Station', 'ref': 'F44'}",181
+node,3800199558,1.2762135,103.8201856,Radin Mas Community Club,"{'amenity': 'taxi', 'name': 'Radin Mas Community Club', 'ref': 'F31'}",182
+node,3800199560,1.2946074,103.8528991,Raffles City (outside Nespresso),"{'amenity': 'taxi', 'capacity': '3', 'description': 'North Bridge Road along driveway outside Raffles City (outside Nespresso)', 'ref': 'C15', 'wheelchair': 'yes'}",184
+node,3800199559,1.2935348,103.8527519,Raffles City C14,"{'amenity': 'taxi', 'capacity': '5', 'description': 'Stamford Road along driveway outside Raffles City', 'ref': 'C14', 'wheelchair': 'yes'}",183
+node,2606133934,1.2946225,103.8547616,Raffles Hotel,"{'amenity': 'taxi', 'name': 'Raffles Hotel'}",31
+node,3800199561,1.2783526,103.8451131,Red Dot Musuem,"{'amenity': 'taxi', 'name': 'Red Dot Musuem', 'ref': 'E26'}",185
+node,3800199562,1.2890855,103.8172769,Redhill Station,"{'amenity': 'taxi', 'name': 'Redhill Station', 'ref': 'F40'}",186
+node,3800198735,1.2989972,103.8491528,Rendezvous Hotel B01,"{'amenity': 'taxi', 'description': 'Prinsep Street at Hotel Rendezvous', 'ref': 'B01', 'wheelchair': 'yes'}",42
+node,3800199580,1.3380595,103.9238428,Reservoir Village,"{'amenity': 'taxi', 'name': 'Sheng Siong Hypermart'}",204
+node,3800199564,1.289208,103.84404,Riverside Point,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Merchant Road at Riverside Point', 'ref': 'D11', 'wheelchair': 'yes'}",188
+node,3800199566,1.2781264,103.8485018,Robinson 77,"{'amenity': 'taxi', 'name': 'Robinson 77', 'ref': 'E14'}",190
+node,3800199567,1.2796188,103.8493895,Robinson Point,"{'amenity': 'taxi', 'name': 'Robinson Point', 'ref': 'E15'}",191
+node,3800199334,1.2883969,103.8475101,SAFRA@29 Carpenter Street,"{'amenity': 'taxi', 'capacity': '3', 'description': 'Carpenter Street Opposite Safra Town Club', 'ref': 'D14', 'wheelchair': 'yes'}",88
+node,3800199572,1.4142129,103.8719045,Seletar Airport Passenger Terminal,"{'amenity': 'taxi', 'name': 'Seletar Airport Passenger Terminal', 'ref': 'G21'}",196
+node,775915338,1.4417528,103.8243756,Sembawang Shopping Centre,"{'amenity': 'taxi', 'name': 'Sembawang Shopping Centre', 'ref': 'H12'}",8
+node,3800199573,1.4493265,103.8203448,Sembawang Station,"{'amenity': 'taxi', 'name': 'Sembawang Station', 'ref': 'H13'}",197
+node,615151186,1.458931,103.8299166,Sembawang Wharves,"{'amenity': 'taxi', 'name': 'Sembawang Wharves', 'ref': 'H11'}",6
+node,3800199575,1.392594,103.8954329,Sengkang Station G16,"{'amenity': 'taxi', 'name': 'Sengkang Station', 'ref': 'G16'}",199
+node,3800199576,1.3926225,103.8962448,Sengkang Station G17,"{'amenity': 'taxi', 'capacity': '3', 'name': 'Sengkang Station', 'ref': 'G17'}",200
+node,3800199574,1.3906849,103.8952282,Sengkang Station G18,"{'amenity': 'taxi', 'name': 'Sengkang Station', 'ref': 'G18'}",198
+node,3800199577,1.3109014,103.8548135,Serangoon Plaza,"{'amenity': 'taxi', 'name': 'Serangoon Plaza', 'ref': 'F17'}",201
+node,3105725789,1.3508921,103.8730016,Serangoon Station G05,"{'amenity': 'taxi', 'name': 'Serangoon Station', 'ref': 'G05'}",34
+node,3800199578,1.3506734,103.8742611,Serangoon Station G06,"{'amenity': 'taxi', 'name': 'Serangoon Station', 'ref': 'G06'}",202
+node,3105725790,1.3495059,103.8737763,Serangoon Station G07,"{'amenity': 'taxi', 'name': 'Serangoon Station', 'ref': 'G07'}",35
+node,9787676285,1.279353,103.8353518,SGH Block 4 Entrance,"{'amenity': 'taxi', 'name': 'SGH Block 4 Entrance'}",266
+node,3488057379,1.2805741,103.8347615,SGH Block 7 Entrance,"{'amenity': 'taxi', 'name': 'SGH Block 7 Entrance'}",36
+node,3800199568,1.2790662,103.8498395,SGX Centre,"{'amenity': 'taxi', 'name': 'SGX Centre', 'ref': 'E18'}",192
+node,3800199579,1.2971691,103.8570368,Shaw Towers,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Beach Road near Shaw Towers', 'ref': 'B13', 'wheelchair': 'yes'}",203
+node,4310972789,1.2574468,103.8111904,Siloso Point,"{'amenity': 'taxi', 'name': 'Siloso Point'}",237
+node,3800199581,1.3034421,103.8530556,Sim Lim Square,"{'amenity': 'taxi', 'name': 'Sim Lim Square', 'ref': 'F24'}",205
+node,3800199582,1.2784561,103.8345949,Singapore General Hospital,"{'amenity': 'taxi', 'name': 'Singapore General Hospital', 'ref': 'F33'}",206
+node,9787676283,1.2810812,103.8357621,Singapore National Eye Centre Entrance,"{'amenity': 'taxi', 'name': 'Singapore National Eye Centre Entrance'}",264
+node,1207252372,1.3074403,103.7800076,Singapore Polytechnic Gate 1,"{'amenity': 'taxi', 'name': 'Taxi Stand'}",11
+node,3800199583,1.4218646,103.7612807,Singapore Turf Club,"{'amenity': 'taxi', 'name': 'Singapore Turf Club', 'ref': 'H20'}",207
+node,8233008153,1.3187315,103.8935218,Singpost Centre Main Entry,"{'amenity': 'taxi', 'name': 'Singpost Centre Main Entry'}",260
+node,9131116423,1.3191396,103.8939214,Singpost Centre North Lobby,"{'amenity': 'taxi', 'location': 'Singpost Centre North Lobby', 'name': 'Singpost Centre North Lobby'}",262
+node,3800199570,1.2976867,103.8491602,SMU School of Econ & Social Sciences,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Bencoolen Street at SMU School of Econ & Social Sciences', 'ref': 'B06', 'wheelchair': 'yes'}",194
+node,3800199571,1.2974675,103.8493227,SMU School of Information Systems,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Bencoolen Street at SMU School of Information Systems', 'ref': 'B07', 'wheelchair': 'yes'}",195
+node,3800199584,1.2823958,103.8452656,Sri Mariamman Temple,"{'amenity': 'taxi', 'capacity': '4', 'description': 'South Bridge Road outside Sri Mariamman Temple', 'ref': 'D16', 'wheelchair': 'yes'}",208
+node,5282975565,1.3038873,103.8772262,Stadium Station,"{'amenity': 'taxi', 'name': 'Stadium Station', 'ref': 'I29'}",243
+node,3800199585,1.2999838,103.8526573,Stamford Arts Centre,"{'amenity': 'taxi', 'capacity': '4', 'description': 'Waterloo Street at Stamford Arts Centre', 'ref': 'B10', 'wheelchair': 'yes'}",209
+node,3800199586,1.3026211,103.8400039,Starhub Centre,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Cuppage Road at Starhub Centre', 'ref': 'A12', 'wheelchair': 'yes'}",210
+node,3800199587,1.2851919,103.8521165,Straits Trading,"{'amenity': 'taxi', 'name': 'Straits Trading', 'ref': 'E13'}",211
+node,3800199588,1.3033276,103.8613974,Sultan Plaza,"{'amenity': 'taxi', 'name': 'Sultan Plaza', 'ref': 'F19'}",212
+node,3800199589,1.3015832,103.8524396,Summerview Hotel,"{'amenity': 'taxi', 'description': 'Bencoolen Street at Summerview Hotel', 'ref': 'B04', 'wheelchair': 'no'}",213
+node,775915359,1.4479566,103.8190851,Sun Plaza,"{'amenity': 'taxi', 'name': 'Sun Plaza'}",9
+node,4586909071,1.2928277,103.8568341,Suntec City,"{'amenity': 'taxi', 'capacity': '4', 'description': 'Raffles Boulevard at Suntec City', 'ref': 'C25', 'wheelchair': 'yes'}",239
+node,3800199591,1.2953415,103.8586563,Suntec Tower 1 & 2,"{'amenity': 'taxi', 'capacity': '5', 'description': 'Temasek Boulevard at Suntec Tower 1 & 2', 'ref': 'C18', 'wheelchair': 'yes'}",214
+node,3800199592,1.2949675,103.8595049,Suntec Tower 3 & 4,"{'amenity': 'taxi', 'capacity': '5', 'description': 'Temasek Boulevard at Suntec Tower 3 & 4', 'ref': 'C19', 'wheelchair': 'yes'}",215
+node,3800199593,1.2933332,103.8537146,Swissotel The Stamford,"{'amenity': 'taxi', 'description': 'Stamford Road along driveway of Swissotel The Stamford', 'ref': 'C17', 'wheelchair': 'yes'}",216
+node,1776776213,1.352249,103.9449276,Tampines Mall,"{'amenity': 'taxi', 'name': 'Tampines Mall', 'ref': 'I03'}",22
+node,3800199465,1.2906518,103.8450304,Tan Tye Place & Clarke Quay,"{'amenity': 'taxi', 'capacity': '5', 'description': 'Tan Tye Place at Clarke Quay', 'ref': 'C04', 'wheelchair': 'yes'}",149
+node,3800199594,1.326702,103.9460448,Tanah Merah Station I05,"{'amenity': 'taxi', 'name': 'Tanah Merah Station', 'name:en': 'Tanah Merah Station', 'ref': 'I05'}",217
+node,2725348949,1.3273087,103.9457655,Tanah Merah Station I06,"{'amenity': 'taxi', 'name': 'Tanah Merah Station', 'name:en': 'Tanah Merah Station', 'ref': 'I06'}",33
+node,3800199595,1.3051862,103.8241588,Tanglin Mall,"{'amenity': 'taxi', 'name': 'Tanglin Mall', 'ref': 'F56'}",218
+node,3800199596,1.3162879,103.8946123,Tanjong Katong Complex,"{'amenity': 'taxi', 'name': 'Tanjong Katong Complex', 'ref': 'I19'}",219
+node,1831970397,1.2760274,103.8432003,Tanjong Pagar Plaza,"{'amenity': 'taxi', 'name': 'Tanjong Pagar Plaza', 'ref': 'E25'}",23
+node,3800199597,1.281852,103.8489564,Telok Ayer Station,"{'amenity': 'taxi', 'name': 'Telok Ayer Station', 'ref': 'E39'}",220
+node,3800199598,1.2909724,103.8513951,The Adelphi,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Coleman Street at The Adelphi', 'ref': 'C12', 'wheelchair': 'yes'}",221
+node,1314006676,1.312156,103.9391023,The Bayshore,"{'amenity': 'taxi', 'name': 'The Bayshore', 'ref': 'I11'}",12
+node,3800199657,1.2898192,103.8562769,The Esplanade,"{'amenity': 'taxi', 'capacity': '3', 'description': 'Raffles Avenue at The Esplanade', 'ref': 'C24', 'wheelchair': 'yes'}",222
+node,3800199565,1.288957,103.848148,The Riverwalk,"{'amenity': 'taxi', 'capacity': '2', 'description': 'Upper Circular Road at The Riverwalk', 'ref': 'D13', 'wheelchair': 'yes'}",189
+node,3800199659,1.2814175,103.8474477,Thian Hock Keng Temple,"{'amenity': 'taxi', 'name': 'Thian Hock Keng Temple', 'ref': 'E06'}",224
+node,2473140283,1.3550292,103.8310472,Thomson Plaza,"{'amenity': 'taxi', 'name': 'Thomson Plaza', 'ref': 'F10', 'shelter': 'yes'}",28
+node,3800199660,1.2847589,103.8326789,Tiong Bahru Market,"{'amenity': 'taxi', 'name': 'Tiong Bahru Market', 'ref': 'F37'}",225
+node,3800199661,1.2866702,103.8275493,Tiong Bahru Plaza,"{'amenity': 'taxi', 'name': 'Tiong Bahru Plaza', 'ref': 'F36'}",226
+node,3800199423,1.2875146,103.85201,Victoria Theatre,"{'amenity': 'taxi', 'capacity': '4', 'description': 'Old Parliament Lane Behind Victoria Theatre', 'note': 'temporarily relocated \nto Empress Place', 'ref': 'C10', 'wheelchair': 'yes'}",110
+node,3800199663,1.3726776,103.9496689,White Sands,"{'amenity': 'taxi', 'name': 'White Sands', 'ref': 'G23'}",227
+node,3800199664,1.3037539,103.8328668,Wisma Atria Shopping Centre,"{'amenity': 'taxi', 'capacity': '4', 'description': 'Orchard Turn outside Wisma Atria Shopping Centre', 'ref': 'A08', 'wheelchair': 'yes'}",228
+node,1847854072,1.4372552,103.787231,Woodlands Station H15,"{'amenity': 'taxi', 'name': 'Woodlands Station', 'ref': 'H15'}",25
+node,3800199665,1.4435705,103.7695643,Woodlands Train Checkpoint Complex,"{'amenity': 'taxi', 'name': 'Woodlands Train Checkpoint Complex', 'ref': 'H17'}",229
+node,3800199666,1.3389851,103.8708749,Woodleigh Station G03,"{'amenity': 'taxi', 'name': 'Woodleigh Station', 'ref': 'G03'}",230
+node,3800199667,1.3971487,103.7475273,Yew Tee Station,"{'amenity': 'taxi', 'name': 'Yew Tee Station', 'ref': 'J03'}",231
+node,5318598104,1.3819631,103.8445955,Yio Chu Kang MRT Station,"{'amenity': 'taxi', 'description': 'Ang Mo Kio Ave 6 outside Yio Chu Kang MRT Station', 'name': 'F01', 'operator': 'Land Transport Authority', 'source': 'https://www.lta.gov.sg/content/dam/ltaweb/corp/PublicTransport/files/List_of_taxi_stands_outside_CBD.pdf', 'wheelchair': 'yes'}",244
+node,3800199668,1.4287632,103.8351331,Yishun Station H08,"{'amenity': 'taxi', 'name': 'Yishun Station', 'ref': 'H08'}",232
+node,3800199669,1.4302638,103.8345443,Yishun Station H09,"{'amenity': 'taxi', 'name': 'Yishun Station', 'ref': 'H09'}",233
+node,5418323783,1.3272079,103.8464351,Zhongshan Mall,"{'amenity': 'taxi', 'covered': 'yes', 'name': 'Zhongshan Mall', 'survey:date': '2021-06-07', 'wheelchair': 'yes'}",249
+node,6440797617,1.3048601,103.8909917,Zhulin Building,"{'amenity': 'taxi', 'description': 'Drop-off Point (Zhulin Building)', 'name': 'Drop-Off Point 1'}",252
+node,6440797618,1.3052781,103.8915373,Zhuopu Building,"{'amenity': 'taxi', 'description': 'Drop-off Point (Zhuopu Building)', 'name': 'Drop-off Point 2'}",253

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var backendhost = \"http://192.168.43.49:5000/\";","map":{"version":3,"names":["backendhost"],"sources":["C:/Users/wangz/Desktop/newUber/configure.js"],"sourcesContent":["export const backendhost = \"http://192.168.43.49:5000/\""],"mappings":"AAAA,OAAO,IAAMA,WAAW,GAAG,4BAApB"},"metadata":{},"sourceType":"module"}
