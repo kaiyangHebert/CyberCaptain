@@ -24,6 +24,7 @@ Please click on below images for the marketing & business Video
 <div align=center>
 <img src="https://github.com/kaiyangHebert/CyberCaptain/blob/main/img/technical%20image.jpeg?raw=true" width="1400" height="550"> 
 </div>
+
 ## Marketing Video
 <div align=center>
 <img src="https://github.com/kaiyangHebert/CyberCaptain/blob/main/img/business%20image.jpg?raw=true" width="1400" height="550"> 
