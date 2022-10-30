@@ -21,6 +21,10 @@ Our project is dedicated to carpooling by grouping student passengers from simil
 ## SECTION 4 : PROMOTIONAL / TECHNICAL SOLUTION VIDEO
 Please click on below images for the marketing & business Video
 ## Technical Video
+<div align=center>
+<img src="https://github.com/kaiyangHebert/CyberCaptain/blob/main/img/business%20image.jpg?raw=true" width="1920" height="1080"> 
+</div>
+
 
 ## Install
 download [Node.js](https://nodejs.org/en/download/)  
