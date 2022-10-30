@@ -206,6 +206,16 @@ def DIJKSTRAS_Shortpath(start_point,end_point):
       destination_ls.append(df['name'][index3])
   # print(destination_ls)
   
+  ### shortest route judgement
+  k='0'
+  for i in range(len(destination_ls)):
+      if end_point not in destination_ls:
+          k='1'
+          break
+      else:
+          k='0'
+  # print(k,'value of k')
+  
   # 
   ax = df.plot.scatter(
       x="lon", 
@@ -251,10 +261,13 @@ def DIJKSTRAS_Shortpath(start_point,end_point):
   for i in range(len(destination_ls)):
       destination_sequence = destination_sequence+destination_ls[-1-i]+" → "
   destination_sequence=destination_sequence[0:-2]
-  
+  ### shortest route judgement
+  if k=='1':
+       cost='not on the shortest route'
+       destination_sequence='not on the shortest route'
   return [path,cost,destination_sequence]
 
 
 
 
-print(DIJKSTRAS_Shortpath(start_point,end_point))
+# print(DIJKSTRAS_Shortpath(start_point,end_point))

@@ -205,6 +205,9 @@ def cluster_decision(p_des,hour,minute):
         time_index=pas_dic_v[pas_dic_v['time']==p_time]['user id'].to_list()
         return time_index
     
+    p_clu=taxi_stand[taxi_stand['name']==p_des]['cluster'].values[0]
+    print(p_clu)
+
     def taxi_share_check(p_des,p_time,pas_dic_v,taxi_stand):
         pas_dic_len=len(pas_dic_v)
         p_clu=taxi_stand[taxi_stand['name']==p_des]['cluster'].values[0]
@@ -258,7 +261,14 @@ def cluster_decision(p_des,hour,minute):
         return des_t
     #######
     share=taxi_share_check(p_des,p_time,pas_dic_v,taxi_stand)
-    
+    share1 = share
+    #####################
+    ###if passenger number < 4
+    print(len(share))
+    if len(share)<3:
+        for i in range(3-len(share)):
+            share.append(p_des)
+    print(share)
     ##################
     # destination calculation
     ##################
@@ -314,18 +324,9 @@ def cluster_decision(p_des,hour,minute):
         return dest
     # print(list(taxi_stand))
     direction=taxi_stand[taxi_stand['name']==des]['direction'].values[0]
-    return [route_generate(taxi_term,p_des,share,des),direction,len(share)]
+    return [route_generate(taxi_term,p_des,share,des),direction,len(share1)]
   
-    
-# ####js print result
-#     const cluster_decision_result=cluster_decision(p_des,hour,minute)
-#     console.log(
-#         "Dear user, you will share your trip with",cluster_decision_result[2],"other passengers in the direction of ",cluster_decision_result[1],
-#         "the destination will be",cluster_decision_result[0]
-#         );
-
-#     console.log("Number of taxi sharing passengers: "cluster_decision_result[2],"; Trip direction: ",cluster_decision_result[1],"; Trip destination: ",cluster_decision_result[0]);
-#     console.log("The route map is still under development");          
+           
 
 
         

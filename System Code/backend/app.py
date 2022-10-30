@@ -162,7 +162,7 @@ def chatbot():
     if tag1 == False and tag2 == True and tag3 == False and tag4 == False:
         if context.upper() in ['YES','NOT','NO','Y','N']:
             if context.upper() in ['NO','NOT','N']:
-                res = ['Ok, Please go to the home page to input your drop-off location and select your pick-up time. Hence, taxi share routing being generated for you.',True,True,False,False]
+                res = ['Ok, Please go to the home page to select your pick-up time. Hence, carpooling routing being generated for you.',True,True,False,False]
             else:
                 res = ['Please input your drop-off location.',False,False,False,False]
         else:
@@ -179,7 +179,7 @@ def chatbot():
     elif tag1 == True and tag2 == False and tag3 == False and tag4 == False:
         if context.upper() in ['YES','NOT','NO','Y','N']:
             if context.upper() in ['YES','Y']:
-                res = ['Ok, Please go to the home page to input your drop-off location and select your pick-up time. Hence, taxi share routing being generated for you.',True,True,False,False]
+                res = ['Ok, Please go to the home page to input your drop-off location and select your pick-up time. Hence, carpooling routing being generated for you.',True,True,False,False]
             else:
                 res = ['Please re-input your drop-off location.',False,False,False,False]
         else:
