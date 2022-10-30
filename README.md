@@ -17,6 +17,11 @@ Our project is dedicated to carpooling by grouping student passengers from simil
 |   Feng Lei    | Content Cell  |                            | Content Cell  |
 |  Han Kaiyang  | Content Cell  | Content Cell               | Content Cell  |
 |  Xu Binghui   | Content Cell  | Content Cell               | Content Cell  |
+
+## SECTION 4 : PROMOTIONAL / TECHNICAL SOLUTION VIDEO
+Please click on below images for the marketing & business Video
+## Technical Video
+
 ## Install
 download [Node.js](https://nodejs.org/en/download/)  
 `$ npm install`  
