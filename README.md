@@ -14,8 +14,9 @@ Our project is dedicated to carpooling by grouping student passengers from simil
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 |   Full Name   |   Student ID  | Work Items (Who Did What)  |     Email     |
 | ------------- | ------------- | -------------------------- | ------------- |
-| Content Cell  | Content Cell  |                            | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell               | Content Cell  |
+|   Feng Lei    | Content Cell  |                            | Content Cell  |
+|  Han Kaiyang  | Content Cell  | Content Cell               | Content Cell  |
+|  Xu Binghui   | Content Cell  | Content Cell               | Content Cell  |
 ## Install
 download [Node.js](https://nodejs.org/en/download/)  
 `$ npm install`  
