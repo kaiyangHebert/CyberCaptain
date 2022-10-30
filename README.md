@@ -1,7 +1,10 @@
 ## SECTION 1 : PROJECT TITLE
 ## Intelligent carpooling system
 
-![Image text](https://github.com/kaiyangHebert/CyberCaptain/blob/main/img/first%20page.jpg?raw=true)
+<div align=center>
+<img src="https://github.com/kaiyangHebert/CyberCaptain/blob/main/img/first%20page.jpg?raw=true" width="180" height="105"> width="180" height="105"/>
+</div>
+
 
 ## 
   
