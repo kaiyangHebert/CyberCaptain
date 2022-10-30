@@ -1,4 +1,9 @@
-# CyberCaptain
+# SECTION 1 : PROJECT TITLE
+# Intelligent carpooling system
+
+![Image text]
+
+## 
   
 ## Install
 download [Node.js](https://nodejs.org/en/download/)  
