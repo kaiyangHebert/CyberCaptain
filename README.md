@@ -1,5 +1,5 @@
-# SECTION 1 : PROJECT TITLE
-# Intelligent carpooling system
+## SECTION 1 : PROJECT TITLE
+## Intelligent carpooling system
 
 ![Image text]
 
