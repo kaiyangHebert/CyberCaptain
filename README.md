@@ -2,7 +2,7 @@
 ## Intelligent carpooling system
 
 <div align=center>
-<img src="https://github.com/kaiyangHebert/CyberCaptain/blob/main/img/first%20page.jpg?raw=true" width="180" height="105"> width="180" height="105"/>
+<img src="https://github.com/kaiyangHebert/CyberCaptain/blob/main/img/first%20page.jpg?raw=true" width="300" height="1000"> width="180" height="105"/>
 </div>
 
 
